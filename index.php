@@ -12,6 +12,6 @@
   <meta name="theme-color" content="#4e8ef7">
 </head>
 <body>
-
+<?php include 'header.php';?>
 </body>
 </html>
