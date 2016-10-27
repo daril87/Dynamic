@@ -10,11 +10,6 @@
 
   <link rel="icon" type="image/x-icon" href="assets/icon/favicon.ico">
   <meta name="theme-color" content="#4e8ef7">
-
-  
-
-  <link href="build/main.css" rel="stylesheet">
-
 </head>
 <body>
 
